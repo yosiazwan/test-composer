@@ -1,0 +1,10 @@
+{
+  "name" : "yosiazwan/test-composer",
+  "description" : "repository to test composer.json schema",
+  "type" : "cakephp3-plugin",
+  "extra": {
+    "installer-paths": {
+      "plugins/": ["yosiazwan/test-composer"]
+    }
+  }
+}
