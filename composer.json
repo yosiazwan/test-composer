@@ -1,8 +1,5 @@
 {
   "name" : "yosiazwan/test-composer",
   "description" : "repository to test composer.json schema",
-  "type" : "cakephp3-plugin",
-  "config": {
-    "vendor-dir": "plugins"
-  }
+  "type" : "cakephp3-plugin"
 }
